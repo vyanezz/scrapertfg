@@ -1,4 +1,4 @@
-
+# Web Scraper
 
 Web scrapper project to detect price discounts and stock availability.
 
